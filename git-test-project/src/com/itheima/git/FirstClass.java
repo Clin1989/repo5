@@ -19,12 +19,6 @@ public class FirstClass {
         System.out.println("hello git project11");
         System.out.println("hello git project22");
     }
-    public static void method(String[] args) {
-        System.out.println("method!");
-        System.out.println("method!");
-        System.out.println("method!");
-        System.out.println("method!");
-        System.out.println("method!");
-    }
+
 
 }
