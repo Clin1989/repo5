@@ -1,0 +1,17 @@
+server:
+  port: 80
+  servlet:
+    path: /
+logging:
+  level:
+    cn.itcast: debug
+    org.springframework: debug
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///eesy
+    username: root
+    password: 123
+mybatis:
+  configuration:
+    type-aliases-package: cn.itcast.domain #配置别名
