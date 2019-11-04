@@ -20,5 +20,8 @@ public class FirstClass {
         System.out.println("hello git project22");
     }
 
+    public void test(){
+        System.out.println("test~~~~~~~~");
+    }
 
 }
